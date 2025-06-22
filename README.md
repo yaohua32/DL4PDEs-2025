@@ -14,12 +14,16 @@ The GitHub repository is for the course "Deep Learning for PDEs in Engineering P
 
 ## Content of the Course
 The course consists of lectures, hands-on tutorials, and practical assignments. Below is a breakdown of topics covered:
-- Deep Learning Basics: Introduction to artificial neural networks (ANNs) and implementing and training ANNs with PyTorch
-- Classical PDE Methods: PDE fundamentals and classical numerical methods, such as finite difference (FDM) and finite element (FEM)
-- Physics-Informed Neural Networks (PINNs): Introduction to PINNs and implementing PINNs for PDEs and analyzing limitations
-- Deep Ritz Method (DeepRitz): Understanding the DeepRitz method and implementing DeepRitz for solving PDEs
-- Deep Neural Operator Network (DeepONet): Introduction to parametric PDE problems and the deep neural operators; Implementing DeepONet for parametric PDE problems
-- Fourier Neural Operator (FNO): Understanding FNO and implementing FNO for parametric PDE problems
+- **Deep Learning Basics**: Introduction to artificial neural networks (ANNs) and implementing and training ANNs with PyTorch
+- **Classical PDE Methods**: PDE fundamentals and classical numerical methods, such as
+  - finite difference (**FDM**)
+  - finite element (**FEM**)
+- **Physics-informed deep learning methods:** Popular physics-informed deep learning methods, such as
+  - Physics-Informed Neural Networks (**PINNs**)
+  - Deep Ritz Method (**DeepRitz**)
+- **Data-driven Deep Neural Operators:** Popular deep neural operator methods based on supervised learning, such as
+  - Deep Neural Operator Network (**DeepONet**)
+  - Fourier Neural Operator (**FNO**)
 
 ## Repository Contents
 - Lecture: Hands-on tutorials and code examples.

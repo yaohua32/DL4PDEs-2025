@@ -27,6 +27,11 @@ The course consists of lectures, hands-on tutorials, and practical assignments. 
 
 The methods taught in this course will be illustrated on various PDEs in engineering physics: the heat equation, Darcy flow, linear elasticity equations, wave equations, Navier-Stokes equations, etc.
 
+## Related Resources
+- An instruction and implementation of the **MultiONet method**: [https://github.com/yaohua32/MultiONet](https://github.com/yaohua32/MultiONet)
+- An instruction and implementation of the **DeepONet method**: [https://github.com/yaohua32/DeepONet](https://github.com/yaohua32/DeepONet)
+- An instruction and implementation of the **FNO (Fourier Neural Operator) method**: [https://github.com/yaohua32/Fourier-Neural-Operator](https://github.com/yaohua32/Fourier-Neural-Operator)
+
 ## Contact Information
 - **Dr. Yaohua Zang**: yaohua.zang@tum.de
 - **Dr. Vincent Scholz**: vincent.scholz@tum.de
